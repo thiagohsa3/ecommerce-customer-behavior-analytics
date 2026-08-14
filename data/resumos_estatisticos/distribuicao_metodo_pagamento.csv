@@ -1,0 +1,7 @@
+metodo_pagamento,transacoes_concluidas,faturamento_liquido,ticket_medio_concluido
+cartao_credito,23778,"1,881,671.47",79.13
+cartao_debito,13993,"1,113,785.64",79.6
+paypal,12407,"984,729.04",79.37
+apple_pay,8195,"667,187.49",81.41
+google_pay,6848,"538,069.62",78.57
+transferencia_bancaria,3479,"257,804.78",74.1
