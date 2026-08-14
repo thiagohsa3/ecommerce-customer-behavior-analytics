@@ -1,0 +1,6 @@
+segmento,total_transacoes,media_ltv,valor_movimentado_bruto,faturamento_liquido
+Regular,40084,1095.18,"3,111,382.14","1,808,827.45"
+Premium,33834,2405.42,"2,663,390.76","1,543,098.13"
+VIP,27794,5056.23,"2,188,440.27","1,253,870.60"
+Comprador_economico,17123,499.99,"1,359,128.91","781,700.43"
+Visitante_ocasional,1165,788.3,"91,434.77","55,751.43"
