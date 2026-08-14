@@ -1,0 +1,13 @@
+faixa_preco_produto,status,total_vendas,faturamento,ticket_medio
+Alto Custo,concluido,17290,"3,354,459.12",194.01
+Médio Custo,concluido,34417,"1,788,186.58",51.96
+Alto Custo,cancelado,4217,"809,967.66",192.07
+Alto Custo,pendente,4139,"799,688.68",193.21
+Alto Custo,reembolsado,4257,"794,569.98",186.65
+Médio Custo,cancelado,8495,"452,094.58",53.22
+Médio Custo,reembolsado,8551,"442,900.70",51.8
+Médio Custo,pendente,8653,"441,472.39",51.02
+Baixo Custo,concluido,16993,"300,602.34",17.69
+Baixo Custo,cancelado,4380,"77,190.42",17.62
+Baixo Custo,reembolsado,4331,"77,092.89",17.8
+Baixo Custo,pendente,4277,"75,551.51",17.66
